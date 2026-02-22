@@ -90,12 +90,15 @@ con = DriverManager.getConnection(
 
 ## 📌 Project Structure
 
+
 StudentManagementProject/
+
 │
 ├── src/
 │   └── StudentManagement.java
 ├── database.sql
 ├── README.md
+
 
 ------------------------------------------------------------
 
